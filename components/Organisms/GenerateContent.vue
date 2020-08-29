@@ -22,7 +22,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import url('https://db.onlinewebfonts.com/c/28163c87a18792d6798c430b4e3e5cbf?family=Uber+Move');
 .generate-content {
   width: 100%;
   margin-top: 24px;

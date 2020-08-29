@@ -13,7 +13,7 @@
       ref="download"
       href="#"
       style="display:none;"
-      download="canvas.jpg"
+      download="myEats.jpg"
     >ダウンロード</a>
   </div>
 </template>
